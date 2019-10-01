@@ -1,3 +1,3 @@
-# RUBIK-ui-library
+# RUBIK - UI-library
 
 CSS components library
