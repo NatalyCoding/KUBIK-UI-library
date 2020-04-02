@@ -1,10 +1,13 @@
-# RUBIK - UI-library
+# Kubik UI Library
 
-CSS components library
+This is CSS components library
 
-Buttons
 
-Typography
+Arrows
+
+
+Buttons:
+
 
 Navbars
 
